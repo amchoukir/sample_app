@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 ruby '2.1.3'
 
 gem 'rails', '4.1.6'
+gem 'bootstrap-sass'
 gem 'sass-rails', '4.0.3'
 gem 'uglifier', '2.5.3'
 gem 'coffee-rails', '4.0.1'
